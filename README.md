@@ -1,2 +1,2 @@
-# su20-lab
+# cs61C-su20-lab
 
